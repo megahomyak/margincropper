@@ -1,5 +1,9 @@
 # Margincropper
 
+## Installation
+
+* `pip install margincropper`
+
 ## Usage example
 
     from margincropper import crop_margins, ContentNotFound
