@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "margincropper"
-version = "1.0.0"
+version = "1.0.1"
 description = "Crops margins from PIL images"
 authors = ["megahomyak <g.megahomyak@gmail.com>"]
 license = "MIT"
