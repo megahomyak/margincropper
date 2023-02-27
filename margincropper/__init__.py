@@ -38,5 +38,4 @@ def crop_margins(image: Image, margin_color: MarginColor, max_margin_color_diffe
     except ValueError:
         raise ContentNotFound
     else:
-        print(rect)
         return image.crop(rect)
